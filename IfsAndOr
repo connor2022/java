@@ -1,0 +1,9 @@
+ifs are conditions, and the conditions an if can take are only through booleans
+a==b a is same as b
+a!=b a is different from b
+a>b a is greater than b
+a>=b a is greater or equal to b
+a<b a is less than b and etc.
+
+
+ifs, and, or, 

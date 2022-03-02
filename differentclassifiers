@@ -1,0 +1,19 @@
+// (byte - an 8-bit integer, stores whole numbers in the range -128−128 to 127127 inclusive.
+
+short - a 16-bit integer, stores -32,768−32,768 to 32,76732,767 inclusive.
+
+int - a 32-bit integer, 
+
+long - a 64-bit integer, 
+
+float - a single precision 32-bit floating point number, stores decimal numbers with reasonable, but limited accuracy.
+
+double - a double precision 64-bit floating point number, more precise than a float, but takes more space.
+
+boolean - has only two possible values, true or false.
+
+char - stores a 16-bit unicode character.
+
+byte, short, int and long all store whole numbers with increasing ranges
+float and double store decimals 
+amd char is similar to short )
